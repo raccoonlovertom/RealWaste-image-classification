@@ -28,6 +28,7 @@ Below is an example of the model’s **training accuracy and loss curves**:
 
 ### Prediction Examples
 Sample predictions from the trained model:
+<img width="966" height="633" alt="images:sample_predictions" src="https://github.com/user-attachments/assets/58031c42-4305-48d4-97c3-a8856934a1f8" />
 
 ![Sample Predictions](images/sample_predictions.png)
 
