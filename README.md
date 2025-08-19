@@ -1,9 +1,9 @@
 # RealWaste-image-classification
 a deep learning model for image classification
 
-# Waste Classifier Project
+# RealWaste-image Classifier 
 
-This is a machine learning model that can classify items by images into predefined categories using algorithms taught in class(McMaster) and their extensions.
+This is a machine learning model that aims to classify wastes' images into 9 common predefined categories using algorithms taught in class(McMaster) and their extensions.
 
 This project uses the **RealWaste dataset**, a collection of authentic, labeled images of waste items provided by the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/908/realwaste). The model is designed to support the field of waste management, where accurate sorting can improve the efficiency of recycling and disposal processes, contributing to environmental sustainability.
 
