@@ -1,6 +1,6 @@
 # RealWaste Image Classifier
 
-This project develops a machine learning model that classifies waste images into **nine predefined categories**:
+This project(wasteclassifier.ipynb) develops a machine learning model that classifies waste images into **nine predefined categories**:
 
 - Cardboard  
 - Food Organics  
