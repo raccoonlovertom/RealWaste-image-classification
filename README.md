@@ -19,7 +19,26 @@ The notebook includes **step-by-step code with comments and visualizations** to 
 
 ---
 
-## Project Structure
+## 📊 Sample Results
+
+### Model Training Progress
+Below is an example of the model’s **training accuracy and loss curves**:
+
+![Training Accuracy and Loss](images/accuracy_loss.png)
+
+### Prediction Examples
+Sample predictions from the trained model:
+
+![Sample Predictions](images/sample_predictions.png)
+
+### Robustness testing 
+Testing the model's robustness by uploading your own waste image:
+
+![Sample Predictions](images/robustnesstest.png)
+
+---
+
+## 📂 Project Structure
 
 The main notebook (`wasteclassifier514.ipynb`) is organized into the following sections:
 
@@ -32,6 +51,6 @@ The main notebook (`wasteclassifier514.ipynb`) is organized into the following s
 
 ---
 
-## Dataset
+## 📑 Dataset
 
-The dataset is not included in this repository due to size constraints, but it can be downloaded directly from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/908/realwaste).
+The dataset is not included in this repository due to size constraints, but it can be downloaded directly from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/908/realwaste).  
