@@ -23,19 +23,19 @@ The notebook includes **step-by-step code with comments and visualizations** to 
 
 ### Model Training Progress
 Below is an example of the model’s **training accuracy and loss curves**:
+<img width="930" height="378" alt="images:accuracy_loss" src="https://github.com/user-attachments/assets/07812cdf-cb35-4ea5-b0ca-447b5cb7424e" />
 
-![Training Accuracy and Loss](images/accuracy_loss.png)
+
 
 ### Prediction Examples
 Sample predictions from the trained model:
-<img width="966" height="633" alt="images:sample_predictions" src="https://github.com/user-attachments/assets/58031c42-4305-48d4-97c3-a8856934a1f8" />
+<img width="966" height="633" alt="images:sample_predictions" src="https://github.com/user-attachments/assets/8103e809-175f-4980-9b5f-aa3a192f66ca" />
 
-![Sample Predictions](images/sample_predictions.png)
 
 ### Robustness testing 
 Testing the model's robustness by uploading your own waste image:
+<img width="1005" height="651" alt="images:robustnesstest" src="https://github.com/user-attachments/assets/d6110f6c-5f67-48ee-aae4-d17ccd86a7db" />
 
-![Sample Predictions](images/robustnesstest.png)
 
 ---
 
