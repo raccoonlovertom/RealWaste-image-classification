@@ -1,6 +1,3 @@
-# RealWaste-image-classification
-a deep learning model for image classification
-
 # RealWaste-image Classifier 
 
 This is a machine learning model that aims to classify wastes' images into 9 common predefined categories using algorithms taught in class(McMaster) and their extensions.
